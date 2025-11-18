@@ -1,0 +1,9 @@
+package com.mejuloli.os_management.exception;
+
+// ===== exceção lançada quando um recurso não é encontrado =====
+public class ResourceNotFoundException extends RuntimeException {
+
+    public ResourceNotFoundException(String message) {
+        super(message);
+    }
+}
