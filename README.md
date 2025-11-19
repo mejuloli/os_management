@@ -103,7 +103,7 @@ CREATE DATABASE os_management;
 O projeto contém um arquivo modelo:
 
 ```
-src/main/resources/template_application.properties
+config/template_application.properties
 ```
 
 Para ativar suas configurações locais, faça o seguinte:
